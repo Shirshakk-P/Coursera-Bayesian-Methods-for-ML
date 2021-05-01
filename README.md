@@ -1,5 +1,5 @@
 # Coursera-Bayesian-Methods-for-ML
-Repository contains the python-3 code for the Final Project in the Coursera course "Bayesian Methods for Machine Learning".
+Repository contains the python-3 code for the Final Project in the Coursera course "Bayesian Methods for Machine Learning". <br />
 
 
 
