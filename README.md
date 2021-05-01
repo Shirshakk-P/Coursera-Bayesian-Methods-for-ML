@@ -7,7 +7,7 @@ Course Link: (https://www.coursera.org/learn/bayesian-methods-in-machine-learnin
 
 Offered By:
 
-          HSE University
+     HSE University
 
 Author:
               
